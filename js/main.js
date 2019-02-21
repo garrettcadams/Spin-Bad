@@ -1,8 +1,7 @@
 /*
  Platform.js <https://mths.be/platform>
- Copyright 2014-2018 Benjamin Tan <https://bnjmnt4n.now.sh/>
- Copyright 2011-2013 John-David Dalton
- Available under MIT license <https://mths.be/mit>
+ Copyright 2019 Branko Vukmirovic <https://github.com/branko-vukmirovic/>
+  Available under MIT license <https://mths.be/mit>
 */
 (function(){var a="undefined"!==typeof window&&"undefined"!==typeof window.document?window.document:{},d="undefined"!==typeof module&&module.exports,b="undefined"!==typeof Element&&"ALLOW_KEYBOARD_INPUT"in Element,g=function(){for(var e,b=["requestFullscreen exitFullscreen fullscreenElement fullscreenEnabled fullscreenchange fullscreenerror".split(" "),"webkitRequestFullscreen webkitExitFullscreen webkitFullscreenElement webkitFullscreenEnabled webkitfullscreenchange webkitfullscreenerror".split(" "),
 "webkitRequestFullScreen webkitCancelFullScreen webkitCurrentFullScreenElement webkitCancelFullScreen webkitfullscreenchange webkitfullscreenerror".split(" "),"mozRequestFullScreen mozCancelFullScreen mozFullScreenElement mozFullScreenEnabled mozfullscreenchange mozfullscreenerror".split(" "),"msRequestFullscreen msExitFullscreen msFullscreenElement msFullscreenEnabled MSFullscreenChange MSFullscreenError".split(" ")],f=0,c=b.length,r={};f<c;f++)if((e=b[f])&&e[1]in a){for(f=0;f<e.length;f++)r[b[0][f]]=
