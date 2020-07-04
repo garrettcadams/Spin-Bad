@@ -1,6 +1,6 @@
-# SlotMachine-TheFruits
+# Spin-bad
 
 Play Game on :
-https://branko-vukmirovic.github.io/SlotMachine-TheFruits/
+https://garrettcadams.github.io/Spin-Bad/
 
-The Fruits Slot Machine Game!
+Simple Slot Machine Game!
